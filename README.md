@@ -60,31 +60,16 @@ My main focus is **Data Science & Machine Learning**, but I also enjoy building 
 - 🔐 Cybersecurity fundamentals  
 - ⚙️ Production-ready data systems
 
-<details>
-<summary>📚 Learning Journey</summary>
-<br>
-- Data Science Professional Certificate  
-- Machine Learning Specialization  
-- Python for Data Analysis
-</details>
+## 🎯 Focus
 
-<br>
-
-## 🤝 Connect
-
-Open to **job opportunities**, **collaborations**, and **meaningful connections**.
-
-<p>
-  <a href="mailto:bastianlazo0933@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/bastianlazo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+**Primary:** Data Science & Machine Learning  
+**Building:** End-to-end ML systems  
+**Exploring:** Cybersecurity as a complementary skill
 
 ---
 
-<p align="center">
-  <i>Minimal by nature · Curious by choice</i>
-</p>
+## 🤝 Connect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bastianlazo&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+Open to **job opportunities**, **collaborations**, and **connections**.
+
+📫 **bastianlazo0933@gmail.com**
