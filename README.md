@@ -112,5 +112,5 @@ Open to **job opportunities**, **collaborations**, and **meaningful connections*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bastianlazo&color=blue&style=flat-square" />
   <br>
-  <i>Minimal by nature · Curious by choice · From Chile 🇨🇱</i>
+  <i>From Chile 🇨🇱</i>
 </p>
