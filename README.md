@@ -97,17 +97,12 @@
 ## 🤝 Let's Connect
 
 <a href="mailto:bastianlazo0933@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/bastianlazo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
 </a>
 
-<br><br>
+📫 **bastianlazo0933@gmail.com**
 
-Open to **job opportunities**, **collaborations**, and **meaningful connections**.
-
-<br><br>
+<br>
 
 Open to **job opportunities**, **collaborations**, and **meaningful connections**.
 
