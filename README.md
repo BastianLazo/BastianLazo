@@ -107,6 +107,10 @@
 
 Open to **job opportunities**, **collaborations**, and **meaningful connections**.
 
+<br><br>
+
+Open to **job opportunities**, **collaborations**, and **meaningful connections**.
+
 ---
 
 <p align="center">
