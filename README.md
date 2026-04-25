@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastianlazo&layout=compact&theme=graywhite&hide_border=true&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastianlazo&layout=compact&theme=graywhite&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </p>
 
 <p align="center">
