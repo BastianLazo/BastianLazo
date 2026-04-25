@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year Computer Engineering student  
-🇨🇱 From Santiago, Chile  
+🇨🇱 From Viña del Mar, Chile  
 🔬 Focus: Data Science & Machine Learning  
 🛠️ Building: Web apps, VR experiences, ML models  
 🌱 Learning: AI explainability + Cybersecurity basics  
